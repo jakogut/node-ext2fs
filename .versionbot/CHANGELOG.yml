@@ -1,4 +1,21 @@
 - commits:
+    - subject: add lstat support
+      hash: c61dc2811f3f5bc9b2998f45858a4218dc1b27c3
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Zane Hitchcox
+    - subject: add Building section to readme (explain submodule)
+      hash: 59001e2ad4c340c30a392aa0d5e9eb9cc2bca53a
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Forest Johnson
+  version: 3.1.1
+  date: 2022-07-07T21:07:04.400Z
+- commits:
     - subject: add symlink support
       hash: a7e33f0068966821626ee9e86924bbc32e0dd484
       body: ""
