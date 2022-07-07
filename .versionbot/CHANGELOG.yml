@@ -1,4 +1,22 @@
 - commits:
+    - subject: Fixed memory leak in js_zeroout_entry
+      hash: 669e85e92ca9b98b9135aa5c86f1a64b5305a523
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Simon Kadisch
+    - subject: add lstat support
+      hash: c61dc2811f3f5bc9b2998f45858a4218dc1b27c3
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Zane Hitchcox
+  version: 3.1.1
+  title: "'Fixed memory leak in js_zeroout_entry'"
+  date: 2022-07-07T22:21:13.365Z
+- commits:
     - subject: add symlink support
       hash: a7e33f0068966821626ee9e86924bbc32e0dd484
       body: ""
