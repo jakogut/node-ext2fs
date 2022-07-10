@@ -43,7 +43,9 @@
   "bugs": {
     "url": "https://github.com/balena-io/node-ext2fs/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "tar": "^6.1.11"
+  },
   "versionist": {
     "publishedAt": "2022-07-07T20:31:55.018Z"
   }
